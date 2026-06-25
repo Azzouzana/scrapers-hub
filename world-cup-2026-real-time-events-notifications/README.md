@@ -424,6 +424,7 @@ Notify when players are subbed on or off.
 
 ```json
 {
+  "webhookUrl": "YOUR_WEBHOOK_URL",
   "testWebhook": true,
   "subscribeGoals": true,
   "subscribeYellowCards": false,
