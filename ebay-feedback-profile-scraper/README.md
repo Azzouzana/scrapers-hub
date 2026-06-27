@@ -65,17 +65,17 @@ Under **Filters → Received as** (`receivedAs`):
 
 ### 🤑 Cost / Pricing
 
-**$0.7 per 1,000 reviews** ($0.7/1K) saved to your dataset. No hidden fees.
+**$0.5 per 1,000 reviews** ($0.5/1K) saved to your dataset. No hidden fees.
 
 | Reviews | Cost |
 | -------: | ---: |
-| 100 | $0.07 |
-| 1,000 | $0.7 |
-| 5,000 | $3.50 |
-| 10,000 | $7.00 |
-| 50,000 | $35.00 |
+| 100 | $0.05 |
+| 1,000 | $0.5 |
+| 5,000 | $2.50 |
+| 10,000 | $5.00 |
+| 50,000 | 25.00 |
 
-Example: 2,500 reviews → 2,500 × $0.0007 = **$1.75**.
+Example: 2,500 reviews → 2,500 × $0.0005 = **$1.25**.
 
 ### 📥 Input
 
@@ -200,7 +200,7 @@ Yes. Set `rating` to `negative` under Filters.
 Up to **50,000** via **Max reviews**. eBay may cap how far back public feedback goes; you get everything available in that window.
 
 **How much does it cost?**\
-$0.7 per 1,000 reviews ($0.7/1K)
+$0.5 per 1,000 reviews ($0.5/1K)
 
 **Do I need an eBay account?**\
 No.
